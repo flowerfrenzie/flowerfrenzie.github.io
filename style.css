@@ -1,0 +1,140 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+
+}
+
+body {
+  background-color:#A0F2D4;
+text-align: left;}
+
+#menu{
+  width:100%;
+  height:90px;
+  background-color:#eda9e8;
+  padding:20px;
+
+}
+
+
+li {
+  display:inline;
+  vertical-align: middle;
+}
+
+li a{
+  padding-left:5%;
+  color:white;
+  font-family: rift, sans-serif;
+
+font-weight: 700;
+
+font-style: italic;
+font size: 70
+
+}
+.menu {
+  margin-top:4vh;
+  margin-left:8vh;
+}
+
+.menu li {
+  float: left;
+  padding-right: 30px;
+  font-size: 1.6em;
+  color: black;
+  list-style-type: none;
+  font-weight: bold;
+  background-color: white;
+}
+
+.menu li a {
+  color: black;
+  text-decoration: none;
+  background-color: white;
+  background-size: contain;
+}
+.about li a {
+  text-align:
+}
+#title {
+  margin-top: 9vh;
+  margin-bottom:2vh;
+  font-family: madre-script, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: black;
+  background-color: white;
+}
+#about{
+  height: 20px;
+  width: 10%;
+}
+
+
+
+h1, p {
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D99AD5;
+  text-shadow: #B47ED9
+/* height:45%;
+width:100%; */
+
+}
+
+
+
+
+.portfolio {
+  width:50%;
+}
+
+a {
+  color:black;
+  text-decoration: none;
+  font-family: mantinia, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+
+
+}
+
+
+a:hover {
+  color:pink;
+
+}
+
+ button {
+   font-size:
+ }
+
+#portrait{
+text-align: center;
+margin: 0 auto;
+
+}
+
+
+}
+
+
+footer{
+  font-family: madre-script, sans-serif;
+
+  font-weight: 400;
+text-color:
+  font-style: normal;
+
+
+
+}
